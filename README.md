@@ -2,7 +2,7 @@
 building IA cours project
 SmartWaste – Détection intelligente des déchets
 
-##  Résumé
+ ## Résumé
 SmartWaste est un projet d’intelligence artificielle qui utilise la vision par ordinateur pour identifier et classer automatiquement les déchets à partir d’images.  
 L’objectif principal est d’aider les citoyens et les municipalités à améliorer le tri sélectif et réduire la pollution.
 
